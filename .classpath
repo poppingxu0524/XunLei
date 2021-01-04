@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/java/swt/swt/com.ibm.icu_64.2.0.v20190507-1337.jar"/>
+	<classpathentry kind="lib" path="D:/java/swt/swt/metadata-extractor-2.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/java/swt/swt/org.eclipse.core.commands_3.9.600.v20191122-2109.jar"/>
+	<classpathentry kind="lib" path="D:/java/swt/swt/org.eclipse.core.runtime_3.17.0.v20191122-2104.jar"/>
+	<classpathentry kind="lib" path="D:/java/swt/swt/org.eclipse.equinox.common_3.10.600.v20191004-1420.jar"/>
+	<classpathentry kind="lib" path="D:/java/swt/swt/org.eclipse.equinox.registry_3.8.600.v20191017-2055.jar"/>
+	<classpathentry kind="lib" path="D:/java/swt/swt/org.eclipse.jface.text_3.16.100.v20191203-1634.jar"/>
+	<classpathentry kind="lib" path="D:/java/swt/swt/org.eclipse.jface_3.18.0.v20191122-2109.jar"/>
+	<classpathentry kind="lib" path="D:/java/swt/swt/org.eclipse.osgi_3.15.100.v20191114-1701.jar"/>
+	<classpathentry kind="lib" path="D:/java/swt/swt/org.eclipse.swt.win32.win32.x86_64_3.113.0.v20191204-0601.jar"/>
+	<classpathentry kind="lib" path="D:/java/swt/swt/org.eclipse.text_3.10.0.v20191122-2108.jar"/>
+	<classpathentry kind="lib" path="D:/java/swt/swt/org.eclipse.ui.forms_3.8.200.v20191114-0830.jar"/>
+	<classpathentry kind="lib" path="D:/java/swt/swt/org.eclipse.ui.workbench_3.117.0.v20191126-1131.jar"/>
+	<classpathentry kind="lib" path="D:/java/swt/swt/xmpcore-5.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
